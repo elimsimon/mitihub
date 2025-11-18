@@ -1,0 +1,43 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Login</title>
+  <link rel="icon" type="image/svg+xml" href="/mitihub/assets/image/favicon.svg">
+  <link rel="stylesheet" href="/mitihub/assets/css/style.css">
+</head>
+<body>
+  <div class="auth-wrapper" style="background:linear-gradient(135deg,#f3f6ff 0%, #e8efff 100%);">
+    <div class="auth-card">
+      <div class="auth-header">
+        <img src="/mitihub/assets/image/logo_mitihub.png" alt="Mitihub logo" class="auth-logo-img" />
+        <h1 class="auth-title">Sign in to your account</h1>
+        <p class="auth-subtitle">Welcome back — enter your details to continue</p>
+      </div>
+
+            
+      <form method="post" class="auth-form" novalidate>
+        <div class="form-row">
+          <label for="email">Email</label>
+          <input id="email" type="email" name="email" placeholder="you@example.com" required>
+        </div>
+        <div class="form-row">
+          <label for="password">Password</label>
+          <input id="password" type="password" name="password" placeholder="••••••••" required>
+        </div>
+        <button type="submit" class="btn-primary">Sign in</button>
+      </form>
+
+      <div style="display:flex;justify-content:space-between;align-items:center;margin-top:1rem;">
+        <div><a href="/mitihub/register.php">Create account</a></div>
+        <div><a href="/mitihub/forgot_password.php">Forgot password?</a></div>
+      </div>
+
+      <p class="text-center mt-2 muted">Mitihub 1.0 © 2025 All Rights Reserved</p>
+    </div>
+  </div>
+
+</body>
+</html>
+

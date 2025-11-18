@@ -1,0 +1,44 @@
+{
+  "drought_resistant": [
+    "Acacia xanthophloea (Fever tree)",
+    "Croton megalocarpus",
+    "Cordia africana",
+    "Olea africana (Wild olive)",
+    "Warburgia ugandensis"
+  ],
+  "spacing": [
+    "Grevillea robusta: 2.5m–3m between trees; 3m–4m between rows",
+    "Cypress: 2m–2.5m between trees; 2.5m–3m between rows",
+    "Mango: 7m–10m depending on variety and management",
+    "Avocado: 6m–8m spacing; ensure good drainage"
+  ],
+  "soils": [
+    "Grevillea: well-drained loams; avoid waterlogging",
+    "Mango: deep, well-drained loams; pH 5.5–7.5",
+    "Avocado: loose, well-drained soils; pH 5.0–7.0",
+    "Cypress: deep soils; avoid shallow hardpans"
+  ],
+  "diseases": [
+    "Grevillea: damping-off in seedlings; ensure sterile media and avoid overwatering",
+    "Mango: anthracnose; prune for airflow and apply copper-based sprays if needed",
+    "Avocado: root rot (Phytophthora); ensure drainage and avoid waterlogging",
+    "Cypress: cypress canker; remove infected branches and sanitize tools"
+  ],
+  "best_practices": [
+    "Plant at onset of rains; use mulching to conserve soil moisture",
+    "Stake young trees and protect from livestock",
+    "Water deeply but infrequently; prioritize early establishment",
+    "Use compost or well-decomposed manure; avoid fresh manure on roots",
+    "Regularly inspect for pests/diseases and prune dead/weak branches"
+  ],
+  "planting": [
+    "Ideal planting at onset of long or short rains depending on region",
+    "For high altitudes (1500–2200m), select cold-tolerant species and protect seedlings from frost",
+    "Dig wide planting holes (e.g., 60cm x 60cm x 60cm), mix topsoil with compost",
+    "Water thoroughly after planting and mulch to reduce evaporation"
+  ],
+  "sources": [
+    {"title":"KEFRI indigenous species guide","url":"https://www.kefri.org/"},
+    {"title":"FAO Forestry best practices","url":"https://www.fao.org/forestry/en/"}
+  ]
+}
